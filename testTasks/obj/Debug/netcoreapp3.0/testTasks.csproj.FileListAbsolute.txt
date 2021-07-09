@@ -1,0 +1,11 @@
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\bin\Debug\netcoreapp3.0\testTasks.exe
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\bin\Debug\netcoreapp3.0\testTasks.deps.json
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\bin\Debug\netcoreapp3.0\testTasks.runtimeconfig.json
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\bin\Debug\netcoreapp3.0\testTasks.runtimeconfig.dev.json
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\bin\Debug\netcoreapp3.0\testTasks.dll
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\bin\Debug\netcoreapp3.0\testTasks.pdb
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\obj\Debug\netcoreapp3.0\testTasks.csprojAssemblyReference.cache
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\obj\Debug\netcoreapp3.0\testTasks.AssemblyInfoInputs.cache
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\obj\Debug\netcoreapp3.0\testTasks.AssemblyInfo.cs
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\obj\Debug\netcoreapp3.0\testTasks.dll
+C:\Users\Алла Тяпаева\source\repos\testTasks\testTasks\obj\Debug\netcoreapp3.0\testTasks.pdb
